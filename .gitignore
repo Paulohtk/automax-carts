@@ -1,0 +1,11 @@
+bin/
+obj/
+dist/
+node_modules/
+.vs/
+*.db
+*.db-shm
+*.db-wal
+*.user
+.env
+.env.local
